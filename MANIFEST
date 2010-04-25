@@ -1,0 +1,17 @@
+README
+lib/AnyEvent/Twitter/Chirp.pm
+inc/Module/Install
+inc/Module/Install/WriteAll.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install.pm
+MANIFEST                        This list of files
+Changes
+Makefile.PL
+t/00_compile.t
+META.yml
+.gitignore
