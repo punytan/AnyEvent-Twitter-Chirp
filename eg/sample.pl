@@ -6,7 +6,6 @@ use utf8;
 use Encode;
 use Data::Dumper;
 
-use lib './space/AnyEvent-Twitter-Chirp/lib';
 use AnyEvent;
 use AnyEvent::Twitter::Chirp;
 
