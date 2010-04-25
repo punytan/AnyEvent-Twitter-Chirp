@@ -1,4 +1,5 @@
 README
+eg/sample.pl
 lib/AnyEvent/Twitter/Chirp.pm
 inc/Module/Install
 inc/Module/Install/WriteAll.pm

@@ -172,6 +172,8 @@ AnyEvent::Twitter::Chirp is a good wrapper for Twitter Chirp User Streams with A
 
 You MUST read API documentation L<http://apiwiki.twitter.com/ChirpUserStreams> before you use this module.
 
+See L<eg/sample.pl> for full client code example.
+
 =head2 You can set the callback coderef each event.
 
 =over 4
